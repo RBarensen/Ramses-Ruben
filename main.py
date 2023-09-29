@@ -29,3 +29,5 @@ validation_agent = RandomAgent()
 validation_result = validate(agent_x=my_agent, agent_o=validation_agent, iterations=100)
  
 plot_validation(validation_result) #Hier worden de trainingsresultaten geplot
+
+#test
